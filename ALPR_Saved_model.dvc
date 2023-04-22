@@ -1,0 +1,5 @@
+outs:
+- md5: aa67d90730f9f9fa51d843d98610c35f.dir
+  size: 364772257
+  nfiles: 7
+  path: ALPR_Saved_model
