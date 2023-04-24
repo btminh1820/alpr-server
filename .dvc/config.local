@@ -1,0 +1,2 @@
+['remote "alpr_models_v1"']
+    profile = my_alpr_profile
