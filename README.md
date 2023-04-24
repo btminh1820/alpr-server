@@ -9,6 +9,7 @@ Overall pipelines of whole system is shown below:
 ![Pipeline](./readme_images/alpr_flow_chart.jpg)
 
 
+
 ## Section 2: User Manual
 
 ### Step 1: Git clone project's repository and install requirements:
