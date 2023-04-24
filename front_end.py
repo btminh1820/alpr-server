@@ -20,7 +20,7 @@ headers = {'content-type': 'application/json'}
 st.set_option("deprecation.showfileUploaderEncoding", False)
 st.title("License Plate API")
 
-image = st.file_uploader("Choose an image", type=['jpg', 'jpeg', 'png'])
+image = st.file_uploader("Choose an image", type=['jpg', 'jpeg'])
 #imageLocation = st.empty()
 
 if image:
