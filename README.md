@@ -3,7 +3,7 @@ This is the repository of the Automatic License Plate Recognition API for Vietna
 
 ## Section 1: Introduction
 
-This project uses Yolo family model for license plate detection and VietOCR to recognise text in plates detected. We only provide local-PC scale testing, using FastAPI as backend and Streamlit library as frontend. 
+This project uses Yolo family model for license plate detection and VietOCR to recognise text in the detected plates. The project only provide local-PC scale testing, using FastAPI as backend and Streamlit library as frontend. 
 
 Overall pipelines of whole system is shown below:
 ![Pipeline](./readme_images/alpr_flow_chart.jpg)
